@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/Israel-MCardoso">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Israel-MCardoso&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel-MCardoso&layout=compact&langs_count=6&theme=midnight-purple"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Israel-MCardoso&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel-MCardoso&layout=compact&langs_count=6&theme=chartreuse-dark"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -16,7 +16,5 @@
  
 
  
+<div> 
  
-
-
-
